@@ -22,7 +22,7 @@ PixLocation.py is an OpenCV-based image processing tool for automatically identi
 ##  Installation
 1. Clone the repository
 bash
-git clone https://github.com/1332831738/AUTO-living-material.git
+git clone https://github.com/1332831738/AUTO-Living-material.git
 cd AUTO-Living-material
 
 2. Install dependencies
