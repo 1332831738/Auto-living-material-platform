@@ -1,4 +1,4 @@
-# AUTO-Living-material
+# Auto-living-material-platform
 PixLocation.py - Fluorescent Microsphere Localization Tool
 Project Overview
 PixLocation.py is an OpenCV-based image processing tool for automatically identifying and locating green fluorescent microspheres in 24-well plates. The tool reads images captured with an EVOS7M7000 microscope, detects green targets, calculates their position coordinates, and generates CSV data files for use in downstream automated workflows.
@@ -22,8 +22,8 @@ PixLocation.py is an OpenCV-based image processing tool for automatically identi
 ##  Installation
 1. Clone the repository
 bash
-git clone https://github.com/1332831738/AUTO-Living-material.git
-cd AUTO-Living-material
+git clone https://github.com/1332831738/Auto-living-material-platform.git
+cd Auto-living-material-platform
 
 2. Install dependencies
 bash
