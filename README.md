@@ -34,7 +34,7 @@ bash
 pip install opencv-python numpy pandas pillow
 
 3. Directory structure
-AUTO-COMB-platform/
+Auto-living-material-platform/
 ├── PixLocation.py                         # Main program entry
 ├── data/
 │   ├── raw/                             # Input image folder (create manually)
